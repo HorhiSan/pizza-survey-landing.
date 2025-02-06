@@ -1,0 +1,57 @@
+.body {
+    font-family: Arial, sans-serif;
+    background-color: #FFF3E0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  .container {
+    max-width: 1000px;
+    margin: 50px auto;
+    padding: 20px;
+    background: lemonchiffon;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  h1 {
+    font-size: 2.5rem;
+    color: #E65100;
+    margin-bottom: 10px;
+  }
+  h2 {
+    font-size: 1.5rem;
+    color: #555;
+    margin-bottom: 20px;
+  }
+  p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  .cta-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    color: #FFF;
+    background-color: #FF6F00;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  .cta-button:hover {
+    background-color: #E65100;
+  }
+  .pizza-img {
+    width: 100%;
+    max-width: 400px;
+    margin: 20px auto;
+    display: block;
+  }
+  .footer {
+    margin-top: 30px;
+    font-size: 0.9rem;
+    color: #777;
+  }
